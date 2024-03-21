@@ -1,0 +1,33 @@
+Task 1: Backend API Creation
+
+● Objective: Develop a backend API using Node.js and Express for managing attendance records.
+● Topics:
+
+● Node.js
+● Express
+● RESTful API design principles
+● Data persistence (MongoDB, MySQL, etc.)
+● Error handling
+
+
+● Work:
+
+● Set up Node.js and Express project.
+● Create endpoints for marking attendance and retrieving records.
+● Implement data persistence using a database.
+● Handle errors and validate input data.
+● Follow RESTful API design principles
+
+
+task 1
+
+ set up server 
+
+ connect database (prisma, sql)
+
+ create User 
+
+-> complete token based authentication
+
+
+
